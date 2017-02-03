@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The rueda de casino call generator plays the roll of the "caller" in the rueda so you can practice the turns.
+The rueda de casino call generator plays the roll of the "caller" in the rueda. The user will be able to practice the turn patterns on their own.
 
 ## Functional Components 
 
